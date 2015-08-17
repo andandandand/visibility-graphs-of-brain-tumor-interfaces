@@ -8,5 +8,5 @@ Mathematica code to produce visibility graphs in "Tumor Growth in the Brain: Com
 
 We propose the use of a solution of the Travelling Salesman Problem to define an ordering of distances from the mass center of the tumor. This ordering is used to produce a synthetic "time" series from which the Hurst exponent can be calculated. The visibility graph of the tumor's interface is also produced accoding to this ordering.
 
-### **MMA code author: Antonio Rueda-Toicen### 
+###MMA code author: Antonio Rueda-Toicen### 
 **antonio "dot" rueda "dot" toicen [ at ] gmail "dot" com**
