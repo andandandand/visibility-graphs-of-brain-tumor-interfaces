@@ -1,4 +1,4 @@
-# Visibility graphs of brain tumor interfaces #
+# Visibility Graphs of Brain Tumor Interfaces #
 
 ![glioblastoma.PNG](https://bitbucket.org/repo/gXR68a/images/2878427517-glioblastoma.PNG)
 
